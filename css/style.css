@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+}
+
+pre {
+    padding: 12px 18px;
+
+    background-color: #222222;
+    color: greenyellow;
+
+    text-align: center;
+
+    font-size: 1.2em;
+}
